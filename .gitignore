@@ -1,0 +1,11 @@
+# Node
+node_modules/
+*.log
+
+# Build
+ehr-web/dist/
+ehr-api/.env
+ehr-client/.env
+
+# Local data
+ehr-client/vault/
